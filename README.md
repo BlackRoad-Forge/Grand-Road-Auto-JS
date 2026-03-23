@@ -1,3 +1,11 @@
+# RoadTheft
+
+> GTA-style open world — walk around, enter vehicles, explore the network city
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem. Forked from [`niklasvh/WebGL-GTA`](https://github.com/niklasvh/WebGL-GTA).
+
+---
+
 ***WebGL GTA***
 
 This experiment parses the game files (in their original format) and builds the maps and some of the game objects from the game through WebGL. Some very basic game mechanics and physics are implemented, but there isn't really anything else than pedestrian movement possible in this version.
